@@ -4,6 +4,7 @@
     "keywords": ["hhvm", "his", "hack", "container", "container-interop", "container-interface"],
     "type": "library",
     "require": {
+        "hhvm": "^4.0",
         "hhvm/hhvm-autoload": "^2.0"
     },
     "license": "MIT",
